@@ -1,0 +1,5 @@
+ola mundo
+:wq
+wq
+q
+
