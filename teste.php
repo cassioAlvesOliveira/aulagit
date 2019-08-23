@@ -1,2 +1,2 @@
 <?php phpinfo();?>
-<?="Teste /Alteração";?>
+<?="Teste /Alteração/teste2 ola";?>
